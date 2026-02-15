@@ -24,6 +24,7 @@ Tilda • HTML/CSS (basics)
 
 ## 🌍 Portfolio & Contacts
 
-Portfolio: mariacreative.vercel.app  
+Portfolio: [mariacreative.vercel.app  ](https://mariacreative.vercel.app/)
+
 Email: creativemaria.mikhaylova@gmail.com  
 Telegram: @marikraylova
