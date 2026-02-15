@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Maria Mikhaylova
 
-<!--
-**creativemariamikhaylova-ui/creativemariamikhaylova-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Business Informatics student (Saint Petersburg)  
+📌 SMM specialist & Designer with 4+ years freelance experience  
+📊 Combining design, analytics, and content strategy
 
-Here are some ideas to get you started:
+## 🧠 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 Data analysis & visualization  
+- 🎨 Graphic and UI/UX design  
+- 🗂 SMM — strategy, content planning, analytics  
+- 🛠 Basic web development (HTML, CSS, Tilda, Figma to HTML/CSS)
+
+## 🛠 Skills & Tools
+
+**Design & SMM:**  
+Figma • Photoshop • Illustrator • Canva • CorelDraw • Instagram • Telegram • VK
+
+**Analytics & Tech:**  
+Python • SQL • Power BI • Excel
+
+**Web:**  
+Tilda • HTML/CSS (basics)
+
+## 🌍 Portfolio & Contacts
+
+Portfolio: mariacreative.vercel.app  
+Email: creativemaria.mikhaylova@gmail.com  
+Telegram: @marikraylova
